@@ -1,0 +1,27 @@
+*{
+    font-family: sans-serif;
+}
+#r, #c, #p {
+    width: 10%;
+    height: 33%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.container{
+width: 70%;
+margin: auto;
+
+
+    }
+h1{
+text-align: center;
+}
+.im {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;}
+#pc , #user , #result{
+    text-align: center;
+}
+
